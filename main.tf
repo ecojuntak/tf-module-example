@@ -14,6 +14,6 @@ module "instance" {
   key_name                    = var.key_name
   user_data                   = data.template_file.userdata.rendered
   user_data_replace_on_change = false
-  associate_public_ip_address = true
+  associate_public_ip_address = var.associate_public_ip_address
 }
 

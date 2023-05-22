@@ -29,6 +29,7 @@ No requirements.
 | <a name="input_name"></a> [name](#input\_name) | name | `string` | n/a | yes |
 | <a name="input_subnet_id"></a> [subnet\_id](#input\_subnet\_id) | Subnet ID where instance belongs to | `string` | n/a | yes |
 | <a name="input_vpc_security_group_ids"></a> [vpc\_security\_group\_ids](#input\_vpc\_security\_group\_ids) | VPC security group ids where the instance belongs to | `list(string)` | n/a | yes |
+| <a name="input_associate_public_ip_address"></a> [associate\_public\_ip\_address](#input\_associate\_public\_ip\_address) | A flag to mark whether the instance will have public IP address | `bool` | `false` | no |
 
 ## Outputs
 
