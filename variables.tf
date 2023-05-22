@@ -25,6 +25,6 @@ variable "key_name" {
 
 variable "associate_public_ip_address" {
   description = "A flag to mark whether the instance will have public IP address"
-  type = bool
-  default = false
+  type        = bool
+  default     = false
 }
