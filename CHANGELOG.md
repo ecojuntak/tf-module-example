@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ecojuntak/tf-module-example/compare/v1.1.0...v1.1.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* **basic-instance:** parameterize associate_public_ip_address ([d9171d4](https://github.com/ecojuntak/tf-module-example/commit/d9171d495c985312430c642916433739f84b38b8))
+
 # [1.1.0](https://github.com/ecojuntak/tf-module-example/compare/v1.0.0...v1.1.0) (2023-05-22)
 
 
