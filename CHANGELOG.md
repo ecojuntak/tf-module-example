@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ecojuntak/tf-module-example/compare/v1.0.0...v1.1.0) (2023-05-22)
+
+
+### Features
+
+* **basic-instace:** add manifest to provision basic instance ([f5a3059](https://github.com/ecojuntak/tf-module-example/commit/f5a30590dc67f783fe1448c67827033f7bcbc76c))
+
 # 1.0.0 (2023-05-22)
 
 
